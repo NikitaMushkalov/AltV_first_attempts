@@ -1,0 +1,23 @@
+[20:59:22] alt:V Server, build #1286, branch release
+[20:59:22] Starting alt:V Server on 0.0.0.0:7788
+[20:59:22] coreclr-module: version found: 2.0.5
+[20:59:22] coreclr-module: version found: 3.1.7
+[20:59:22] coreclr-module: greatest version: 3.1.7
+[20:59:22] Loading resource testRes
+[20:59:22] Loading resource chat
+[20:59:22] Loaded resource chat
+[20:59:23] Loaded resource testRes
+[20:59:23] Starting HTTP server on 0.0.0.0:7788
+[20:59:23] Console thread started (ThreadId: 15756)
+[20:59:23] Main thread started (ThreadId: 12620)
+[20:59:23] Colshape thread started (ThreadId: 20380)
+[20:59:23] EntityStreamer thread started (ThreadId: 12420)
+[20:59:23] Network thread started (ThreadId: 14632)
+[20:59:23] Server started
+[20:59:30] [chat:cmd] Player: /spawn
+[20:59:44] [chat:cmd] Player: /dosmth
+[21:00:02] Stopping resource testRes
+[21:00:02] Stopped resource testRes
+[21:00:02] Stopping resource chat
+[21:00:02] Stopped resource chat
+[21:00:03] Server shutdown
